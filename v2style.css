@@ -539,3 +539,16 @@ input[type=submit] {
   .fa {
     margin-right:5px;
   }
+
+
+/*Style the form-container
+form-container{
+  padding-left: 100px;
+  padding-right:100px;
+}*/
+
+/*Style the form rows*/
+row {
+  padding-left: 100px;
+  padding-right:100px;
+}
